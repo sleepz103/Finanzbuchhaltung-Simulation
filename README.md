@@ -2,4 +2,4 @@
 
 Projekt für Herr Haldi: Buchungsatz Trainer, um Finanzsitutationen buchen zu können.
 
-![Buchungssatztrainer_preview.gif]()
+<img title="App Preview" src="./Buchungssatztrainer_preview.gif" alt="gif_of_app_preview">  
